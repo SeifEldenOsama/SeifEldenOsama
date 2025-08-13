@@ -57,6 +57,7 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 - Intermediate SQL
 - Introduction to Python
 - Machine Learning for Beginners
+- Introduction to HTML
 
 ### Mahara-Tech (Online)
 - JavaFX
