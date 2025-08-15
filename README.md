@@ -47,6 +47,7 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 - Introduction to Deep Learning
 - Introduction to Machine Learning
 - Intermediate Machine Learning
+- Introduction to SQL (bigquery)
 
 ### SoloLearn (Online)
 - Introduction to C++
