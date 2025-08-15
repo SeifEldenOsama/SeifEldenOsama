@@ -63,6 +63,7 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 
 ### Kaggle (Online)
 - Introduction to programming
+- Python
 - Computer Vision
 - Data Visualization
 - Introduction to Deep Learning
