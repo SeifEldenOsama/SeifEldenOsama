@@ -62,6 +62,7 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 - AI Diploma
 
 ### Kaggle (Online)
+- Introduction to programming
 - Computer Vision
 - Data Visualization
 - Introduction to Deep Learning
