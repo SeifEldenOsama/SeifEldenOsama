@@ -18,6 +18,7 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
 
 ### Frameworks & Tools
 ![JavaFX](https://img.shields.io/badge/JavaFX-purple?style=flat)
