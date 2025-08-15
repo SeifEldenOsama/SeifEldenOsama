@@ -30,9 +30,28 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 
 ### AI & Data Science
-- Machine Learning, Deep Learning, Computer Vision  
-- PyTorch, TensorFlow, Keras, scikit-learn, NumPy, Pandas  
-- Data Visualization: Matplotlib, Seaborn, Plotly, Dash  
+<h3>🧠 Artificial Intelligence</h3>
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=machine-learning&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=deeplearning&logoColor=white" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/Computer%20Vision-1E90FF?style=flat&logo=opencv&logoColor=white" alt="Computer Vision">
+</p>
+<h3>📚 Frameworks & Libraries</h3>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+</p>  
+<h3>📊 Data Visualization</h3>
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-0099CC?style=flat&logo=python&logoColor=white" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly">
+  <img src="https://img.shields.io/badge/Dash-1E1E1E?style=flat&logo=plotly&logoColor=white" alt="Dash">
+</p>
 
 ---
 
