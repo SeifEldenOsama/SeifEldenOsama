@@ -84,3 +84,4 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 
 ### Mahara-Tech (Online)
 - JavaFX
+- Artificial Intelligence
