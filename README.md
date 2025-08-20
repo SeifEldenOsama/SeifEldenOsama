@@ -84,6 +84,7 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 
 ### Mahara-Tech (Online)
 - JavaFX
+- Python Programming Basics
 - Artificial Intelligence for everyone
 - Artificial Intelligence for juniors
   
