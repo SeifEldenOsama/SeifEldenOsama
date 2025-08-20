@@ -84,7 +84,7 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 
 ### Mahara-Tech (Online)
 - JavaFX
-- Artificial Intelligence
+- Artificial Intelligence for everyone
   
 ### Code.org (Online)
 - AI For Oceans
