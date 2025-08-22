@@ -55,23 +55,19 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 
 ---
 
-💼 Experience
+## 💼 Experience  
 
-CodeAlpha – Machine Learning Intern
-– Built a Credit Scoring Model to predict creditworthiness using Logistic Regression,
-  Decision Trees, and Random Forest, with metrics such as Precision, Recall, and ROC-AUC.
-– Developed an Emotion Recognition System using deep learning (CNN, RNN, LSTM)
-  and MFCC feature extraction on datasets like RAVDESS and TESS.
-– Implemented Handwritten Character Recognition with CNNs on MNIST/EMNIST datasets,
-  extendable to word-level recognition.
-– Created Disease Prediction Models with SVM, Random Forest, Logistic Regression, 
-  and XGBoost on structured medical datasets (diabetes, heart disease, breast cancer).
+**CodeAlpha – Machine Learning Intern**  
+- Built a Credit Scoring Model to predict creditworthiness using Logistic Regression, Decision Trees, and Random Forest, with metrics such as Precision, Recall, and ROC-AUC.  
+- Developed an Emotion Recognition System using deep learning (CNN, RNN, LSTM) and MFCC feature extraction on datasets like RAVDESS and TESS.  
+- Implemented Handwritten Character Recognition with CNNs on MNIST/EMNIST datasets, extendable to word-level recognition.  
+- Created Disease Prediction Models with SVM, Random Forest, Logistic Regression, and XGBoost on structured medical datasets (diabetes, heart disease, breast cancer).  
 
-CodeAlpha – Python Programming Intern
-– Designed a Hangman Game with randomized words and limited attempts.
-– Built a Stock Portfolio Tracker using dictionaries and file handling to calculate investments.
-– Automated repetitive tasks such as moving files, extracting emails, and scraping webpage titles.
-– Developed a Rule-Based Chatbot with predefined conversational replies.
+**CodeAlpha – Python Programming Intern**  
+- Designed a Hangman Game with randomized words and limited attempts.  
+- Built a Stock Portfolio Tracker using dictionaries and file handling to calculate investments.  
+- Automated repetitive tasks such as moving files, extracting emails, and scraping webpage titles.  
+- Developed a Rule-Based Chatbot with predefined conversational replies.  
 
 ## 🎓 Certifications
 
