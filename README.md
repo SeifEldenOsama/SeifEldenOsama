@@ -28,7 +28,7 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
 
 ### AI & Data Science
 <h3>🧠 Artificial Intelligence</h3>
@@ -45,6 +45,7 @@ I’m always eager to learn new technologies and collaborate on innovative proje
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 </p>  
 <h3>📊 Data Visualization</h3>
 <p>
