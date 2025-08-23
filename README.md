@@ -94,6 +94,7 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 - Introduction to JavaScript
 - Intermediate Java
 - Introduction to C#
+- Intermediate C#
 - Introduction to SQL
 - Intermediate SQL
 - Introduction to Python
