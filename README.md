@@ -106,6 +106,7 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 - Python Programming Basics
 - Artificial Intelligence for everyone
 - Artificial Intelligence for juniors
+- Practical Machine Learning for data scientists
   
 ### Code.org (Online)
 - AI For Oceans
