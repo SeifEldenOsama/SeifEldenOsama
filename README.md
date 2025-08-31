@@ -107,6 +107,9 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 - Artificial Intelligence for everyone
 - Artificial Intelligence for juniors
 - Practical Machine Learning for data scientists
+
+### Sprints (Online)  
+- AI And Machine Learning Foundation
   
 ### Code.org (Online)
 - AI For Oceans
