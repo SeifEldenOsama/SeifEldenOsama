@@ -70,7 +70,16 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 - Designed a Hangman Game with randomized words and limited attempts.  
 - Built a Stock Portfolio Tracker using dictionaries and file handling to calculate investments.  
 - Automated repetitive tasks such as moving files, extracting emails, and scraping webpage titles.  
-- Developed a Rule-Based Chatbot with predefined conversational replies.  
+- Developed a Rule-Based Chatbot with predefined conversational replies.
+
+**Saiket Systems– Data Science Intern**
+- Conducted data preparation: loading datasets, handling missing values, encoding categorical variables, and splitting data into training/testing sets.
+- Performed Exploratory Data Analysis (EDA) to calculate churn rates, visualize customer demographics, and analyze relationships between tenure, contract type, and churn.
+- Executed customer segmentation based on tenure, monthly charges, and contract types to identify high-value customers at risk of churn.
+- Developed and evaluated churn prediction models using Logistic Regression, Decision Trees, and other algorithms; optimized models through feature selection and hyperparameter tuning.
+- Interpreted model outputs with feature importance and ROC-AUC analysis, providing business insights on key churn drivers.
+- Delivered business recommendations including targeted retention strategies and engagement tactics to reduce churn and improve customer loyalty.
+   
 
 ## 🎓 Certifications
 
