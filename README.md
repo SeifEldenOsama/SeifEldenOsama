@@ -119,6 +119,7 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 
 ### Sprints (Online)  
 - AI And Machine Learning Foundation
+- Mobile Application development by flutter
   
 ### Code.org (Online)
 - AI For Oceans
