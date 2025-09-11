@@ -90,7 +90,7 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 - Gained experience in presenting results with visualizations (matplotlib, seaborn) and interpreting outcomes to derive actionable insights.
    
 
-## 🎓 Certifications
+## 🎓 Courses & Certifications
 
 ### MEC Academy (Offline)
 - Introduction to Software Engineering using C++
@@ -130,6 +130,16 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 ### Sprints (Online)  
 - AI And Machine Learning Foundation
 - Mobile Application development by flutter
+
+### Google Cloud (Online):
+- Introduction to Generative AI
+- Introduction to Large Language Model
+ 
+### Udemy (Online):
+- AI for data science
+
+### Coursera (Online):
+- Introduction to mobile Application development (IBM)
   
 ### Code.org (Online)
 - AI For Oceans
