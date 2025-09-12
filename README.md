@@ -130,6 +130,7 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 ### Sprints (Online)  
 - AI And Machine Learning Foundation
 - Mobile Application development by flutter
+- Product & Project Management
 
 ### Google Cloud (Online):
 - Introduction to Generative AI
