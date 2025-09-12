@@ -126,6 +126,7 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 - Artificial Intelligence for juniors
 - Practical Machine Learning for data scientists
 - Applied Deep Learning
+- Deep Learning for Computer Vision
 
 ### Sprints (Online)  
 - AI And Machine Learning Foundation
