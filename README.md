@@ -119,6 +119,7 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 - Machine Learning for Beginners
 - Introduction to HTML
 - Introduction to LLMs
+- Prompt Engineering
 
 ### Mahara-Tech (Online)
 - JavaFX
