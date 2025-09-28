@@ -96,6 +96,9 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 - Introduction to Software Engineering using C++
 - AI Diploma
 
+### Huawei (Online)  
+- HCIA-AI V4.0 (Mock Exam score 916 / 1000)
+
 ### Kaggle (Online)
 - Introduction to programming
 - Python
