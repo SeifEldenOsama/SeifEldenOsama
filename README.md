@@ -97,6 +97,8 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 - AI Diploma
 
 ### Huawei (Online)  
+- Overview of AI
+- AI Basic (CRA Training Program)
 - HCIA-AI V4.0 (Mock Exam score 916 / 1000)
 
 ### Kaggle (Online)
