@@ -102,6 +102,9 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 - HCIA-AI V4.0 (Mock Exam score 916 / 1000)
 - AI Technology And Applications (Final Exam Score 88 / 100)
 
+### HP (Online)
+- AI For Beginners
+
 ### Kaggle (Online)
 - Introduction to programming
 - Python
