@@ -105,6 +105,9 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 ### HP (Online)
 - AI For Beginners
 
+### LinkedIn (Online)
+- Introduction to Artificial Intelligence
+  
 ### Kaggle (Online)
 - Introduction to programming
 - Python
