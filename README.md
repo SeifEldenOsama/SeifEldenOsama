@@ -58,7 +58,15 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 
 ---
 
-## 💼 Experience  
+## 💼 Experience
+
+**National Telecommunication Institute (NTI) - ETA Training Program Graduate (On-Site) - Location
+(Egypt New Capital)**
+- Mastered core concepts of AI and Machine Learning, including Supervised and Unsupervised Learning, Feature
+Engineering, and Model Evaluation, as part of the HCIA-AI V4.0 curriculum. 
+- Gained advanced practical skills in Deep Learning (CNNs, RNNs, LSTMs, Transfer Learning), Computer Vision
+(Object Detection, Image Processing), and using frameworks like TensorFlow, PyTorch, and Keras to solve
+real-world problems.
 
 **CodeAlpha – Machine Learning Intern**  
 - Built a Credit Scoring Model to predict creditworthiness using Logistic Regression, Decision Trees, and Random Forest, with metrics such as Precision, Recall, and ROC-AUC.  
