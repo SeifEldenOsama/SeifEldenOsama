@@ -60,7 +60,7 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 
 ## 💼 Experience
 
-**National Telecommunication Institute (NTI) - ETA Training Program Graduate (On-Site) - Location
+**National Telecommunication Institute (NTI) - ETA Training Program (On-Site) - Location
 (Egypt New Capital)**
 - Mastered core concepts of AI and Machine Learning, including Supervised and Unsupervised Learning, Feature
 Engineering, and Model Evaluation, as part of the HCIA-AI V4.0 curriculum. 
