@@ -104,6 +104,9 @@ real-world problems.
 - Introduction to Software Engineering using C++
 - AI Diploma
 
+### National Telecommunication Institute (Offline)
+- Huawei ETA Training Program
+
 ### Huawei (Online)  
 - Overview of AI (Final Exam Score 100 / 100)
 - AI Basic (CRA Training Program)
