@@ -144,3 +144,6 @@ ngrok to create and publicly expose interactive web interfaces.
   
 ### Code.org (Online)
 - AI For Oceans
+
+### Tips Hindawi (Online)
+- Generative AI internship
