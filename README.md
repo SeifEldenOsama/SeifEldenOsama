@@ -12,33 +12,25 @@ I’m always eager to learn new technologies and collaborate on innovative proje
 🛠 Skills
 
 Programming Languages
-
 Python, Java, C++, C#, Dart, SQL, JavaScript, HTML5
 
 Core Computer Science & Databases
-
 Object-Oriented Programming (OOP), Data Structures & Algorithms, Competitive Programming, Algorithmic Thinking MySQL, SQL Server, SQLite
 
 AI & Machine Learning
-
 🧠 Core Concepts
-
 Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), Generative AI
 
 💡 Specialized Techniques
-
 Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Fine-tuning, Supervised/Unsupervised Learning, CNNs, RNNs/LSTMs, Transfer Learning, Feature Engineering, Predictive Analytics
 
 📚 Frameworks & Libraries
-
 PyTorch, TensorFlow, Keras, scikit-learn, NumPy, Pandas, OpenCV, LangChain
 
 📊 Data Visualization
-
 Matplotlib, Seaborn, Plotly, Dash
 
 Development & MLOps Tools
-
 JavaFX, Swing, Flutter, Tkinter, Arduino Git, GitHub Streamlit, ngrok, n8n (Workflow Automation)
 
 ---
