@@ -109,6 +109,7 @@ ngrok to create and publicly expose interactive web interfaces.
 - Introduction to HTML
 - Introduction to LLMs
 - Prompt Engineering
+- Generative AI in Practice
 
 ### Mahara-Tech (Online)
 - JavaFX
