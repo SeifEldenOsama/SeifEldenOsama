@@ -3,9 +3,12 @@
 💻 **Software Engineer & AI Specialist**  
 🎓 College of Computers and Artificial Intelligence, Beni Suef University (Graduating 2026)  
 
-I’m a passionate software engineer with strong expertise in **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**.  
-I enjoy building **intelligent systems**, developing **full-stack applications**, and creating **data-driven solutions** for real-world problems.  
-I’m always eager to learn new technologies and collaborate on innovative projects.
+Innovative Software Engineer and AI Specialist with comprehensive expertise in Machine Learning, Deep Learning,
+and Computer Vision. Skilled in developing and deploying advanced AI-driven solutions, including Large Language
+Models (LLMs), Fine-tuning, and Retrieval-Augmented Generation (RAG) architectures. Proficient in Python,
+TensorFlow, PyTorch, and modern MLOps tools such as LangChain, Streamlit, and ngrok. Adept at leading teams
+and delivering high-impact projects with measurable results. Seeking to leverage strong technical skills and
+problem-solving abilities to contribute to cutting-edge AI and software engineering initiatives.
 
 ---
 
