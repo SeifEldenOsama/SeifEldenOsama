@@ -54,41 +54,39 @@ Augmented Generation (RAG), and Fine-tuning techniques.
 - Developed and deployed LLM-powered applications using LangChain for orchestration, and utilized Streamlit and
 ngrok to create and publicly expose interactive web interfaces.
 
-**CodeAlpha – Machine Learning Intern**  
-- Built a Credit Scoring Model to predict creditworthiness using Logistic Regression, Decision Trees, and Random Forest, with metrics such as Precision, Recall, and ROC-AUC.  
-- Developed an Emotion Recognition System using deep learning (CNN, RNN, LSTM) and MFCC feature extraction on datasets like RAVDESS and TESS.  
-- Implemented Handwritten Character Recognition with CNNs on MNIST/EMNIST datasets, extendable to word-level recognition.  
-- Created Disease Prediction Models with SVM, Random Forest, Logistic Regression, and XGBoost on structured medical datasets (diabetes, heart disease, breast cancer).  
-
-**CodeAlpha – Python Programming Intern**  
-- Designed a Hangman Game with randomized words and limited attempts.  
-- Built a Stock Portfolio Tracker using dictionaries and file handling to calculate investments.  
-- Automated repetitive tasks such as moving files, extracting emails, and scraping webpage titles.  
-- Developed a Rule-Based Chatbot with predefined conversational replies.
+**Instant- Flutter Developer | Remote**
+- Gained hands-on experience by working on real-world projects using the Flutter
+framework.
+- Developed and implemented mobile application features during an intensive one
+month training program.
    
 
 ## 🎓 Courses & Certifications
 
-### MEC Academy (Offline)
+### MEC Academy
 - Introduction to Software Engineering using C++
 - AI Diploma
 
-### National Telecommunication Institute (Offline)
+### Instant Academy
+- Flutter Diploma
+- Flutter Training
+
+### National Telecommunication Institute
 - Huawei ETA Training Program
 
-### Huawei (Online)  
+### Huawei
 - Overview of AI (Final Exam Score 100 / 100)
 - AI Basic (CRA Training Program)
 - HCIA-AI V4.0 (Mock Exam score 916 / 1000)
 - AI Technology And Applications (Final Exam Score 88 / 100)
 
-### HP (Online)
+### HP
 - AI For Beginners
 
-### LinkedIn (Online)
+### LinkedIn
 - Introduction to Artificial Intelligence
   
-### Kaggle (Online)
+### Kaggle
 - Introduction to programming
 - Python
 - Computer Vision
@@ -98,7 +96,7 @@ ngrok to create and publicly expose interactive web interfaces.
 - Intermediate Machine Learning
 - Introduction to SQL (bigquery)
 
-### SoloLearn (Online)
+### SoloLearn
 - Introduction to C++
 - Introduction to Java
 - Introduction to JavaScript
@@ -114,7 +112,7 @@ ngrok to create and publicly expose interactive web interfaces.
 - Prompt Engineering
 - Generative AI in Practice
 
-### Mahara-Tech (Online)
+### Mahara-Tech
 - JavaFX
 - Python Programming Basics
 - Artificial Intelligence for everyone
@@ -123,23 +121,23 @@ ngrok to create and publicly expose interactive web interfaces.
 - Applied Deep Learning
 - Deep Learning for Computer Vision
 
-### Sprints (Online)  
+### Sprints
 - AI And Machine Learning Foundation
 - Mobile Application development by flutter
 - Product & Project Management
 
-### Google Cloud (Online):
+### Google Cloud
 - Introduction to Generative AI
 - Introduction to Large Language Model
  
-### Udemy (Online):
+### Udemy
 - AI for data science
 
-### Coursera (Online):
+### Coursera
 - Introduction to mobile Application development (IBM)
   
-### Code.org (Online)
+### Code.org
 - AI For Oceans
 
-### Tips Hindawi (Online)
+### Tips Hindawi
 - Generative AI internship
