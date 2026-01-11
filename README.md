@@ -48,13 +48,13 @@ Engineering, and Model Evaluation, as part of the HCIA-AI V4.0 curriculum.
 (Object Detection, Image Processing), and using frameworks like TensorFlow, PyTorch, and Keras to solve
 real-world problems.
 
-**Tips Hindawi- LLMs intership | Remote**
+**Tips Hindawi - LLMs intership | Remote**
 - Gained hands-on experience with Large Language Models (LLMs), including the use of Transformers, Retrieval
 Augmented Generation (RAG), and Fine-tuning techniques.
 - Developed and deployed LLM-powered applications using LangChain for orchestration, and utilized Streamlit and
 ngrok to create and publicly expose interactive web interfaces.
 
-**Instant- Flutter Developer | Remote**
+**Instant - Flutter Developer | Remote**
 - Gained hands-on experience by working on real-world projects using the Flutter
 framework.
 - Developed and implemented mobile application features during an intensive one
