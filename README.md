@@ -14,15 +14,6 @@ Skilled in **Python**, **TensorFlow**, **PyTorch**, and modern MLOps tools such 
 
 ---
 
-## 🤖 Me When Debugging AI Models
-
-<div align="center">
-  <img src="https://media.giphy.com/media/bZUYPJzeXs93FWa9ht/giphy.gif" alt="AI Debugging Mood" width="300" />
-  <p><i>Mood: "Why isn't my model working? 🤔"</i></p>
-</div>
-
----
-
 ## 🛠 Technical Skills
 
 ### **Programming Languages**
@@ -80,50 +71,6 @@ Skilled in **Python**, **TensorFlow**, **PyTorch**, and modern MLOps tools such 
 - Algorithmic Thinking
 
 ---
-
-## 🚀 Featured Projects
-
-### **Real-Time Safety Helmet Detection System** | *Team Leader*
-Fine-tuned YOLO for real-time helmet detection with **>90% mAP** for industrial safety compliance.
-
-### **Body Scan Application** | *Team Leader*
-Medical image classification system for Chest X-rays and Brain Tumors using deep learning with JavaFX and Flask APIs.
-
-### **Code Optimizer**
-LLM-based code optimization tool using **Mistral-7B** fine-tuning with QLoRA, deployed via Streamlit and ngrok.
-
-### **AI-Powered Hand Gesture Recognition System**
-Hand gesture detection using **MediaPipe** and **OpenCV** for hands-free gaming controls.
-
-### **Emotion Classification from Speech**
-Deep learning model extracting acoustic features (MFCCs, spectrograms) for multi-class emotion detection.
-
-### **Spam Email Classifier**
-NLP-based spam detection model achieving **96% accuracy**.
-
----
-
-## 🎓 Education & Certifications
-
-**Bachelor of Computer Science** | College of Computers and Artificial Intelligence, Beni Suef National University | Expected 2026
-
-**Key Certifications:**
-- Huawei HCIA-AI V4.0
-- Google Cloud: Introduction to Generative AI & LLMs
-- National Telecommunication Institute: ETA Training Program
-- Coursera (IBM): Mobile Application Development
-- Kaggle: Python, Deep Learning, Machine Learning, Computer Vision
-
----
-
-## 🌍 Languages
-
-- **English:** Intermediate
-- **Arabic:** Native
-
----
-
-## 🔗 Connect With Me
 
 <div align="center">
 
