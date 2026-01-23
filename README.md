@@ -1,11 +1,5 @@
 # 👋 Hi, I'm SeifElden Osama
 
-**Software Engineer & AI Specialist**  
-📧 seifosama708@gmail.com | 📱 +20 1060381126  
-🎓 Bachelor of Computer Science, Beni Suef National University (Expected 2026)
-
----
-
 ## 🎯 Professional Summary
 
 Innovative and results-driven **Junior Software Engineer and AI Specialist** with comprehensive expertise in Machine Learning, Deep Learning, and Computer Vision. Proven track record of designing and deploying advanced AI-driven solutions, including Large Language Models (LLMs), Fine-tuning, and Retrieval-Augmented Generation (RAG) architectures.
@@ -69,24 +63,5 @@ Skilled in **Python**, **TensorFlow**, **PyTorch**, and modern MLOps tools such 
 - Data Structures & Algorithms
 - Competitive Programming
 - Algorithmic Thinking
-
----
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-seifosama708%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:seifosama708@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SeifElden%20Osama-blue?style=flat-square&logo=linkedin)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-SeifEldenOsama-black?style=flat-square&logo=github)](https://github.com/SeifEldenOsama)
-[![Kaggle](https://img.shields.io/badge/Kaggle-SeifEldenOsama-blue?style=flat-square&logo=kaggle)](https://kaggle.com)
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ *"Building AI solutions that make a difference"* ✨
-
-*Last Updated: January 2026*
 
 </div>
