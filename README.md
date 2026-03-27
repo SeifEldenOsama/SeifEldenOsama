@@ -2,48 +2,43 @@
 
 ## 🎯 Professional Summary
 
-Innovative and results-driven **Junior AI Engineer** and recent graduate with comprehensive expertise in Machine Learning, Deep Learning, and Computer Vision. [cite_start]I have a proven track record of designing and deploying advanced AI-driven solutions, including **Large Language Models (LLMs)**, **Fine-tuning**, and **Retrieval-Augmented Generation (RAG)** architectures[cite: 6]. 
+I am a **Junior Software Engineer and AI Specialist** and recent graduate with a deep focus on Machine Learning, Deep Learning, and Computer Vision. [cite_start]I specialize in designing and deploying advanced AI-driven solutions, including **Large Language Models (LLMs)**, **Fine-tuning**, and **Retrieval-Augmented Generation (RAG)** architectures[cite: 6, 27].
 
-I am particularly skilled in building end-to-end AI applications using **Python**, **PyTorch**, **FastAPI**, and **n8n** for automation. My experience extends to managing cloud-based GPU infrastructure (Modal) for high-performance model training. I am passionate about bridging the gap between complex AI research and practical, educational, or professional applications.
+With a strong foundation in **Python**, **PyTorch**, and **FastAPI**, I build end-to-end intelligent applications and automate complex workflows using tools like **n8n**. My experience includes managing high-performance cloud infrastructure like **Modal (H100/A100 GPUs)** to accelerate model training and deployment. I am driven by the challenge of turning complex AI research into practical, scalable tools.
 
 ---
 
 ## 🛠 Technical Skills
 
 ### **Programming Languages**
-| Python | Java | C++ | C# | Dart | SQL | HTML5 | JavaScript |
-|:------:|:----:|:---:|:--:|:----:|:---:|:-----:|:----------:|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-[cite_start]*(Based on [cite: 48])*
+| **Python** | **Java** | **C++** | **C#** | **Dart** | **SQL** | **HTML5** | **JavaScript** |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 🐍 | ☕ | ⌨️ | 🎮 | 🎯 | 🗄️ | 🌐 | 📜 |
+[cite_start][cite: 48]
 
 ### **AI & Machine Learning** 🧠
 
-**Core Concepts:**
-* [cite_start]**Learning Paradigms:** Supervised/Unsupervised Learning, Transfer Learning[cite: 49].
-* [cite_start]**Deep Learning:** CNNs, RNNs, LSTMs[cite: 49].
-* [cite_start]**Optimization:** Feature Engineering, Model Evaluation, QLoRA/PEFT[cite: 49, 78].
-
-**Computer Vision & NLP:**
-* [cite_start]**CV:** Image Classification, Object Detection (YOLO), Semantic Segmentation[cite: 49, 68, 69].
-* [cite_start]**NLP:** Text Classification, Sentiment Analysis, Embeddings[cite: 49].
-* **Generative AI:** LLM Fine-tuning (Mistral, Llama, Parler-TTS), RAG, Prompt Engineering.
-
-**MLOps & Automation:**
-* [cite_start]**Workflow:** n8n Workflow Automation, LangChain orchestration[cite: 49, 68].
-* [cite_start]**Deployment:** FastAPI, Modal (Serverless), Streamlit, Gradio, ngrok[cite: 49, 70, 79].
+* [cite_start]**Core AI/ML:** Supervised/Unsupervised Learning, Feature Engineering, Model Evaluation, and Transfer Learning[cite: 49].
+* [cite_start]**Deep Learning:** Extensive work with CNNs, RNNs, and LSTMs[cite: 49].
+* [cite_start]**Computer Vision:** Image Classification, Object Detection (YOLO), and Semantic Segmentation[cite: 49, 68, 69].
+* **NLP & Generative AI:** Fine-tuning (Mistral, Llama, Parler-TTS), RAG, Prompt Engineering, Text Classification, and Sentiment Analysis.
+* [cite_start]**MLOps & Automation:** Workflow automation with n8n, LangChain orchestration, and serverless deployment via Modal[cite: 49, 65, 68].
 
 ### **Frameworks & Tools** 🔧
-* [cite_start]**Deep Learning:** TensorFlow, PyTorch, Keras[cite: 49].
-* [cite_start]**Data Science:** scikit-learn, NumPy, Pandas[cite: 49].
-* [cite_start]**Computer Vision:** OpenCV[cite: 49].
-* [cite_start]**Data Visualization:** Matplotlib, Seaborn, Plotly, Dash[cite: 49].
-* [cite_start]**Development:** JavaFX, Flutter[cite: 49].
-* [cite_start]**Databases:** MySQL, SQL Server, SQLite[cite: 49].
+
+| Category | Tools |
+| :--- | :--- |
+| **AI Frameworks** | [cite_start]PyTorch, TensorFlow, Keras, scikit-learn [cite: 49] |
+| **Data Science** | [cite_start]NumPy, Pandas, Matplotlib, Seaborn, Plotly, Dash [cite: 49] |
+| **Deployment** | [cite_start]FastAPI, Streamlit, Gradio, ngrok, Modal [cite: 49, 70, 79] |
+| **CV / Development** | [cite_start]OpenCV, JavaFX, Flutter [cite: 49] |
+| **Infrastructure** | [cite_start]Git, GitHub, MySQL, SQL Server, SQLite [cite: 49] |
 
 ---
 
-## 🏆 Achievements & Education
-* **Education:** Bachelor of Computer Science from the Faculty of Computers and Artificial Intelligence.
+## 🏆 Education & Key Achievements
+
+* **Bachelor of Computer Science:** Faculty of Computers and Artificial Intelligence (Beni Suef National University).
 
 ---
 
