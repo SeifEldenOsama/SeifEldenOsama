@@ -89,8 +89,3 @@ Experienced in building intelligent workflow automation pipelines using **n8n**,
 - Algorithmic Thinking
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeifEldenOsama&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeifEldenOsama&layout=compact&theme=tokyonight" />
-</p>
