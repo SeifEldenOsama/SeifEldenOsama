@@ -90,17 +90,6 @@ Experienced in building intelligent workflow automation pipelines using **n8n**,
 
 ---
 
-### 🤝 Soft Skills
-
-| Skill | Description |
-|---|---|
-| **Problem Solving** | Diagnoses complex technical issues and implements effective, scalable solutions |
-| **Teamwork & Collaboration** | Experience leading and collaborating within cross-functional teams |
-| **Leadership** | Led teams in developing computer vision and medical imaging applications |
-| **Adaptability** | Rapidly acquires expertise in new technologies to drive project innovation |
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SeifEldenOsama&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeifEldenOsama&layout=compact&theme=tokyonight" />
