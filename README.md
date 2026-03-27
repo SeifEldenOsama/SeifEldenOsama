@@ -1,49 +1,67 @@
-## 👋 Hi, I'm SeifElden Osama
+# 👋 Hi, I'm SeifElden Osama
 
 ## 🎯 Professional Summary
 
-I am a **Junior Software Engineer and AI Specialist** and recent graduate with a deep focus on Machine Learning, Deep Learning, and Computer Vision. [cite_start]I specialize in designing and deploying advanced AI-driven solutions, including **Large Language Models (LLMs)**, **Fine-tuning**, and **Retrieval-Augmented Generation (RAG)** architectures[cite: 6, 27].
+Innovative and results-driven **Junior Software Engineer and AI Specialist** with comprehensive expertise in Machine Learning, Deep Learning, and Computer Vision. Proven track record of designing and deploying advanced AI-driven solutions, including Large Language Models (LLMs), Fine-tuning, and Retrieval-Augmented Generation (RAG) architectures.
 
-With a strong foundation in **Python**, **PyTorch**, and **FastAPI**, I build end-to-end intelligent applications and automate complex workflows using tools like **n8n**. My experience includes managing high-performance cloud infrastructure like **Modal (H100/A100 GPUs)** to accelerate model training and deployment. I am driven by the challenge of turning complex AI research into practical, scalable tools.
+Skilled in **Python**, **TensorFlow**, **PyTorch**, and modern MLOps tools such as **LangChain**, **Streamlit**, and **ngrok**. Adept at leading cross-functional teams and delivering high-impact projects with measurable results. Seeking to leverage strong technical skills and problem-solving abilities to contribute to cutting-edge AI and software engineering initiatives.
 
 ---
 
 ## 🛠 Technical Skills
 
 ### **Programming Languages**
-| **Python** | **Java** | **C++** | **C#** | **Dart** | **SQL** | **HTML5** | **JavaScript** |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 🐍 | ☕ | ⌨️ | 🎮 | 🎯 | 🗄️ | 🌐 | 📜 |
-[cite_start][cite: 48]
+<div align="center">
+
+| Python | Java | C++ | C# | Dart | SQL | HTML5 | JavaScript |
+|:------:|:----:|:---:|:--:|:----:|:---:|:-----:|:----------:|
+| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+
+</div>
 
 ### **AI & Machine Learning** 🧠
 
-* [cite_start]**Core AI/ML:** Supervised/Unsupervised Learning, Feature Engineering, Model Evaluation, and Transfer Learning[cite: 49].
-* [cite_start]**Deep Learning:** Extensive work with CNNs, RNNs, and LSTMs[cite: 49].
-* [cite_start]**Computer Vision:** Image Classification, Object Detection (YOLO), and Semantic Segmentation[cite: 49, 68, 69].
-* **NLP & Generative AI:** Fine-tuning (Mistral, Llama, Parler-TTS), RAG, Prompt Engineering, Text Classification, and Sentiment Analysis.
-* [cite_start]**MLOps & Automation:** Workflow automation with n8n, LangChain orchestration, and serverless deployment via Modal[cite: 49, 65, 68].
+**Core Concepts:**
+- Supervised/Unsupervised Learning
+- Feature Engineering & Model Evaluation
+- Deep Learning (CNNs, RNNs, LSTMs, Transfer Learning)
+
+**Computer Vision:**
+- Image Classification
+- Object Detection (YOLO, Faster R-CNN)
+- Image Processing & Segmentation
+
+**Natural Language Processing (NLP):**
+- Text Classification & Sentiment Analysis
+- Embeddings & Word Vectors
+- Large Language Models (LLMs)
+
+**Generative AI & MLOps:**
+- Fine-tuning & QLoRA
+- Retrieval-Augmented Generation (RAG)
+- LangChain, Streamlit, ngrok
+- n8n Workflow Automation
+
+**Predictive Analytics:**
+- Regression Models
+- Time Series Forecasting
 
 ### **Frameworks & Tools** 🔧
 
 | Category | Tools |
-| :--- | :--- |
-| **AI Frameworks** | [cite_start]PyTorch, TensorFlow, Keras, scikit-learn [cite: 49] |
-| **Data Science** | [cite_start]NumPy, Pandas, Matplotlib, Seaborn, Plotly, Dash [cite: 49] |
-| **Deployment** | [cite_start]FastAPI, Streamlit, Gradio, ngrok, Modal [cite: 49, 70, 79] |
-| **CV / Development** | [cite_start]OpenCV, JavaFX, Flutter [cite: 49] |
-| **Infrastructure** | [cite_start]Git, GitHub, MySQL, SQL Server, SQLite [cite: 49] |
+|----------|-------|
+| **Deep Learning** | TensorFlow, PyTorch, Keras |
+| **Data Science** | scikit-learn, NumPy, Pandas |
+| **Computer Vision** | OpenCV, MediaPipe |
+| **Data Visualization** | Matplotlib, Seaborn, Plotly, Dash |
+| **Development** | JavaFX, Flutter, Swing, Tkinter, Arduino |
+| **Version Control** | Git, GitHub |
+| **Databases** | MySQL, SQL Server, SQLite |
 
----
+### **Core Computer Science**
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Competitive Programming
+- Algorithmic Thinking
 
-## 🏆 Education & Key Achievements
-
-* **Bachelor of Computer Science:** Faculty of Computers and Artificial Intelligence (Beni Suef National University).
-
----
-
-## 🌐 Languages
-* [cite_start]**Arabic:** Native [cite: 99]
-* [cite_start]**English:** Intermediate [cite: 100]
-
----
+</div>
