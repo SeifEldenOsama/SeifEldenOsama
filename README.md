@@ -5,6 +5,7 @@
   <a href="https://linkedin.com/in/seif-elden-osama/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/SeifEldenOsama"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://kaggle.com/seifosamahosney"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://monkeytype.com/profile/SeifElden_"><img src="https://img.shields.io/badge/Monkeytype-E2B714?style=for-the-badge&logo=monkeytype&logoColor=black" /></a>
   <a href="mailto:seifosama708@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
